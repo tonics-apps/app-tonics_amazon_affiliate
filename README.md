@@ -1,2 +1,2 @@
-# app-tonics_amazon_affiliate
+# App Tonics Amazon Affiliate
 Tonics Amazon Affiliate Apps
